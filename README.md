@@ -1,4 +1,4 @@
-#Madhav eCommerce Sales Power BI Dashboard
+#ECommerce Sales Power BI Dashboard
 
 This Power BI dashboard provides a comprehensive overview of eCommerce sales performance, including:
 
